@@ -1,2 +1,1 @@
-cd ./question1
-git init question2
+git init repo_2
